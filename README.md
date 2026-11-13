@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003262,100:FDB515&height=160&section=header&text=Matt%C3%A9o%20Bonche&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20people%20actually%20need&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=003262&center=true&vCenter=true&width=520&lines=MSc+Entrepreneurship+%40+UC+Berkeley;Into+startup+sales+%26+go-to-market;Co-founder+%40+Skareers;Currently+shipping+SkillCase+%26+globuddy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=003262&center=true&vCenter=true&width=520&lines=MSc+Entrepreneurship+%40+UC+Berkeley;Into+startup+sales+%26+go-to-market;Co-founder+%40+Skareers;Shipping+SkillCase%2C+globuddy+%26+RiskPulse" />
 
 <a href="https://www.linkedin.com/in/matteobonche/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://skillcase.fr"><img src="https://img.shields.io/badge/SkillCase.fr-111111?style=flat&logo=googlechrome&logoColor=white"/></a>
@@ -30,7 +30,8 @@ ask_me:   startup sales, outbound, VC, recruiting, community building
 |:-:|---|---|:-:|
 | 🎯 | **[SkillCase](https://skillcase.fr)** | Hire interns & juniors based on what they *do*, not their CV. A 20-min mission built from the real job, scored with evidence, shortlist in 72h. | [Live ↗](https://skillcase.fr) |
 | 🍓 | **[globuddy](https://szulun.github.io/Strawberry/intro_c.html)** | *One activity. Then you meet again.* Turning a shared activity into real connections. Built with a team at Berkeley. | [Live ↗](https://szulun.github.io/Strawberry/intro_c.html) |
-| 🍽️ | **Skareers** | Dinners that connect students with alumni. 20 sold-out dinners, 200+ students, 20+ alumni. | — |
+| 📈 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Connects today's news to the stocks & ETFs you own and explains what it means for your money, in plain English. ETF look-through, stress tests, exposure map. | [Live ↗](https://riskpulse-app.vercel.app/) |
+| 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Dinners that connect students with alumni. 20 sold-out dinners, 200+ students, 20+ alumni. | [LinkedIn ↗](https://www.linkedin.com/company/skareers/) |
 
 <details>
 <summary><b>🧰 Toolbox</b></summary>
