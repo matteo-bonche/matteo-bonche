@@ -1,27 +1,29 @@
+<img src="assets/banner.svg" width="100%" alt="Mattéo Bonche · UC Berkeley"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003262,100:FDB515&height=160&section=header&text=Matt%C3%A9o%20Bonche&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20people%20actually%20need&descAlignY=60&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=003262&center=true&vCenter=true&width=520&lines=MSc+Entrepreneurship+%40+UC+Berkeley;Into+startup+sales+%26+go-to-market;Co-founder+%40+Skareers;Shipping+SkillCase%2C+globuddy+%26+RiskPulse" />
-
-<a href="https://www.linkedin.com/in/matteobonche/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://skillcase.fr"><img src="https://img.shields.io/badge/SkillCase.fr-111111?style=flat&logo=googlechrome&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/📍_Berkeley_·_Paris-FDB515?style=flat"/>
+<a href="https://www.linkedin.com/in/matteobonche/"><img src="https://img.shields.io/badge/LinkedIn-matteobonche-FDB515?style=flat-square&labelColor=003262"/></a>
+<img src="https://img.shields.io/badge/Based_in-Berkeley,_CA-FDB515?style=flat-square&labelColor=003262"/>
+<img src="https://img.shields.io/badge/Open_to-Startup_Sales_%26_BizDev-FDB515?style=flat-square&labelColor=003262"/>
 
 </div>
 
----
-
 ### 👋 Hey, I'm Mattéo
 
-I turn ideas into products, then go out and sell them. Talking to customers is my favorite part of building.
-I'm currently doing an **MSc in Entrepreneurship, Technology & Startup Management at UC Berkeley**. Before that, I helped 300+ founders at **50 Partners** and co-founded **Skareers**.
+I start things, then I go out and sell them.
+I co-founded a dinner club that sat **200+ students** across the table from alumni at **Goldman Sachs, Lazard and Microsoft**. I helped **300+ founders** get unstuck at **50 Partners**. Now I'm at **UC Berkeley**, shipping products with AI and talking to way too many users.
 
-```yaml
-now:      building startup projects during my Berkeley exchange
-focus:    sales · product · growth · go-to-market
-learning: shipping faster with AI and no-code / low-code tools
-ask_me:   startup sales, outbound, VC, recruiting, community building
+If you need someone who can build the thing *and* bring in the customers, we should talk.
+
+```js
+const matteo = {
+  basedIn:   "Berkeley, CA 🇺🇸  ·  Paris 🇫🇷",
+  building:  ["SkillCase", "Globuddy", "RiskPulse"],
+  superpower: "turning cold intros into warm deals",
+  languages: ["French", "English", "Python", "SQL"],
+  fuel:      "customer calls & late-night shipping",
+  hireMe:    () => "linkedin.com/in/matteobonche",
+};
 ```
 
 ### 🚧 What I'm building
@@ -29,39 +31,73 @@ ask_me:   startup sales, outbound, VC, recruiting, community building
 | | Project | What it does | |
 |:-:|---|---|:-:|
 | 🎯 | **[SkillCase](https://skillcase.fr)** | Hire interns & juniors based on what they *do*, not their CV. A 20-min mission built from the real job, scored with evidence, shortlist in 72h. | [Live ↗](https://skillcase.fr) |
-| 🍓 | **[globuddy](https://szulun.github.io/Strawberry/intro_c.html)** | *One activity. Then you meet again.* Turning a shared activity into real connections. Built with a team at Berkeley. | [Live ↗](https://szulun.github.io/Strawberry/intro_c.html) |
+| 🍓 | **[Globuddy](https://szulun.github.io/Strawberry/intro_c.html)** | *One activity. Then you meet again.* Helps international students go beyond the first friendly hangout and turn it into real friendships, one shared activity at a time. Built with a team at Berkeley. | [Live ↗](https://szulun.github.io/Strawberry/intro_c.html) |
 | 📈 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Connects today's news to the stocks & ETFs you own and explains what it means for your money, in plain English. ETF look-through, stress tests, exposure map. | [Live ↗](https://riskpulse-app.vercel.app/) |
-| 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Dinners that connect students with alumni. 20 sold-out dinners, 200+ students, 20+ alumni. | [LinkedIn ↗](https://www.linkedin.com/company/skareers/) |
+| 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Small-group dinners where students meet alumni from finance, luxury, defense and tech. 20+ dinners, 200+ students. | [LinkedIn ↗](https://www.linkedin.com/company/skareers/) |
 
-<details>
-<summary><b>🧰 Toolbox</b></summary>
-<br/>
+### 🧰 Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white)
+**Sell** &nbsp;
+![HubSpot](https://img.shields.io/badge/HubSpot_Inbound_Sales-003262?style=flat-square&logo=hubspot&logoColor=white)
+![Sales Navigator](https://img.shields.io/badge/LinkedIn_Sales_Navigator-003262?style=flat-square)
+![CRM](https://img.shields.io/badge/Outbound_%26_CRM-003262?style=flat-square)
 
-</details>
+**Build** &nbsp;
+![Replit](https://img.shields.io/badge/Replit_Agent-003262?style=flat-square&logo=replit&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-003262?style=flat-square&logo=githubcopilot&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-003262?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Pages-003262?style=flat-square&logo=github&logoColor=white)
 
-<details>
-<summary><b>🛤️ Path so far</b></summary>
-<br/>
+**Analyze** &nbsp;
+![Python](https://img.shields.io/badge/Python-003262?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-003262?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003262?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_·_Financial_Modeling-003262?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-003262?style=flat-square)
 
-- 🎓 **UC Berkeley**: MSc Entrepreneurship, Technology & Startup Management *(2026 to now)*
-- 🎓 **SKEMA Business School**: Master in Management · Lille 🇫🇷 → Belo Horizonte 🇧🇷
-- 🚀 **Skareers**: Co-founder, leading a 6-person team
-- 🤝 **50 Partners**: Startup program, helping 300+ founders
-- 📊 **In The Memory**: strategy consulting and data on 25k+ SKUs
-- 💸 **Baby VC** bootcamp · Bocconi VC certification
+**Automate & Pitch** &nbsp;
+![Airtable](https://img.shields.io/badge/Airtable-003262?style=flat-square&logo=airtable&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-003262?style=flat-square&logo=zapier&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-003262?style=flat-square)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-003262?style=flat-square)
 
-</details>
+### 🛤️ Where I've been
+
+<table>
+  <tr>
+    <td width="48" align="center"><img src="https://www.google.com/s2/favicons?domain=berkeley.edu&sz=128" width="32"/></td>
+    <td><b>UC Berkeley</b><br/><sub>MSc Entrepreneurship, Technology & Startup Management</sub></td>
+    <td align="right"><sub>2026 – 2027</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/skareers.png" width="32"/></td>
+    <td><b>Skareers</b> · Co-founder<br/><sub>20+ alumni dinners, 200+ students, 6-person team</sub></td>
+    <td align="right"><sub>2025 – now</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=babyvc.co&sz=128" width="32"/></td>
+    <td><b>baby vc</b> · VC Fellow, Batch 12<br/><sub>Due diligence & investment challenges with top European funds</sub></td>
+    <td align="right"><sub>2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=50partners.fr&sz=128" width="32"/></td>
+    <td><b>50 Partners</b> · Startup Program<br/><sub>Matched 300+ founders with the right experts · 90% satisfaction</sub></td>
+    <td align="right"><sub>2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=inthememory.com&sz=128" width="32"/></td>
+    <td><b>In The Memory</b> · Strategy Consulting<br/><sub>Retail strategy & data on 25k+ SKUs (SQL, Excel)</sub></td>
+    <td align="right"><sub>2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=skema.edu&sz=128" width="32"/></td>
+    <td><b>SKEMA Business School</b><br/><sub>Master in Management · Lille → Belo Horizonte</sub></td>
+    <td align="right"><sub>2024 – 2027</sub></td>
+  </tr>
+</table>
 
 <div align="center">
-<sub>🎾 Tennis for 10+ years · 🎭 ex-improv actor · always happy to grab a coffee and talk startups</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDB515,100:003262&height=80&section=footer" width="100%"/>
+**Building a startup and need someone who sells?** → [Let's talk on LinkedIn](https://www.linkedin.com/in/matteobonche/)
+
 </div>
