@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#001a33"/>
+      <stop offset="0.55" stop-color="#003262"/>
+      <stop offset="0.85" stop-color="#3b5a8c"/>
+      <stop offset="1" stop-color="#e8a33d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FDB515" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#FDB515" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FDB515" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c98a2e" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#001a33" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sky -->
+  <rect width="1280" height="320" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="40" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="85" r="1"/>
+    <circle cx="320" cy="30" r="1.2"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="70" r="0.9"/>
+    <circle cx="610" cy="25" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="95" r="0.8"/>
+    <circle cx="820" cy="45" r="1.1"/>
+    <circle cx="1010" cy="35" r="1.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="80" r="1"/>
+    <circle cx="1230" cy="28" r="1.2"/>
+    <circle cx="1180" cy="140" r="0.8"/>
+  </g>
+
+  <!-- setting sun over the Golden Gate -->
+  <circle cx="1090" cy="262" r="140" fill="url(#glow)"/>
+  <circle cx="1090" cy="262" r="26" fill="#FDB515"/>
+
+  <!-- far hills (Marin / SF) -->
+  <path d="M640 262 C720 240 790 246 860 236 C930 226 980 244 1040 240 C1110 236 1180 228 1280 238 L1280 270 L640 270 Z" fill="#1d3a66" opacity="0.8"/>
+
+  <!-- Golden Gate silhouette -->
+  <g stroke="#0b2447" fill="none" opacity="0.9">
+    <rect x="1000" y="196" width="7" height="70" fill="#0b2447" stroke="none"/>
+    <rect x="1170" y="196" width="7" height="70" fill="#0b2447" stroke="none"/>
+    <path d="M940 254 Q1003 196 1003 196 Q1088 262 1173 196 Q1173 196 1240 254" stroke-width="2"/>
+    <line x1="930" y1="254" x2="1250" y2="254" stroke-width="3"/>
+  </g>
+
+  <!-- bay -->
+  <rect x="0" y="262" width="1280" height="58" fill="url(#bay)"/>
+  <g stroke="#FDB515" stroke-opacity="0.35" stroke-width="1.5">
+    <line x1="1040" y1="276" x2="1140" y2="276"/>
+    <line x1="1060" y1="288" x2="1120" y2="288"/>
+    <line x1="1075" y1="300" x2="1105" y2="300"/>
+  </g>
+
+  <!-- Berkeley hills (foreground left) -->
+  <path d="M0 210 C90 190 170 200 260 214 C380 232 520 238 640 250 C720 256 780 260 830 268 C850 272 870 290 880 320 L0 320 Z" fill="#00152b"/>
+
+  <g transform="translate(170,0)">
+  <!-- Sather Tower (the Campanile) -->
+  <g fill="#00152b">
+    <!-- spire -->
+    <polygon points="560,58 538,104 582,104"/>
+    <rect x="557" y="46" width="6" height="14"/>
+    <!-- belfry cap -->
+    <rect x="532" y="104" width="56" height="8"/>
+    <!-- belfry -->
+    <rect x="536" y="112" width="48" height="40"/>
+    <!-- shaft -->
+    <rect x="540" y="152" width="40" height="112"/>
+    <!-- base -->
+    <rect x="532" y="256" width="56" height="12"/>
+  </g>
+  <!-- belfry openings with warm light -->
+  <g fill="#FDB515" opacity="0.85">
+    <rect x="543" y="118" width="9" height="26" rx="4"/>
+    <rect x="556" y="118" width="9" height="26" rx="4"/>
+    <rect x="569" y="118" width="9" height="26" rx="4"/>
+  </g>
+  <!-- clock -->
+  <circle cx="560" cy="166" r="7" fill="none" stroke="#FDB515" stroke-width="1.6" opacity="0.9"/>
+  <line x1="560" y1="166" x2="560" y2="161" stroke="#FDB515" stroke-width="1.4"/>
+  <line x1="560" y1="166" x2="564" y2="168" stroke="#FDB515" stroke-width="1.4"/>
+  </g>
+
+  <!-- text -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="118" font-size="54" font-weight="800" fill="#ffffff" letter-spacing="-1">Mattéo Bonche</text>
+    <text x="66" y="156" font-size="21" font-weight="600" fill="#FDB515">Builder · Sales · Startups</text>
+    <text x="66" y="186" font-size="16" fill="#c9d6ea">MSc Entrepreneurship, Technology &amp; Startup Management · UC Berkeley</text>
+  </g>
+</svg>
