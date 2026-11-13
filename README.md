@@ -4,27 +4,18 @@
 
 <a href="https://www.linkedin.com/in/matteobonche/"><img src="https://img.shields.io/badge/LinkedIn-matteobonche-FDB515?style=flat-square&labelColor=003262"/></a>
 <img src="https://img.shields.io/badge/Based_in-Berkeley,_CA-FDB515?style=flat-square&labelColor=003262"/>
-<img src="https://img.shields.io/badge/Open_to-Startup_Sales_%26_BizDev-FDB515?style=flat-square&labelColor=003262"/>
+<img src="https://img.shields.io/badge/Obsessed_with-Sales,_Tech_%26_Startups-FDB515?style=flat-square&labelColor=003262"/>
 
 </div>
 
 ### 👋 Hey, I'm Mattéo
 
-I start things, then I go out and sell them.
+> 💬 *Business student who got tired of pitching ideas in slides, so I started shipping them.*
+> *Turns out I like selling them even more.*
+
 I co-founded a dinner club that sat **200+ students** across the table from alumni at **Goldman Sachs, Lazard and Microsoft**. I helped **300+ founders** get unstuck at **50 Partners**. Now I'm at **UC Berkeley**, shipping products with AI and talking to way too many users.
 
 If you need someone who can build the thing *and* bring in the customers, we should talk.
-
-```js
-const matteo = {
-  basedIn:   "Berkeley, CA 🇺🇸  ·  Paris 🇫🇷",
-  building:  ["SkillCase", "Globuddy", "RiskPulse"],
-  superpower: "turning cold intros into warm deals",
-  languages: ["French", "English", "Python", "SQL"],
-  fuel:      "customer calls & late-night shipping",
-  hireMe:    () => "linkedin.com/in/matteobonche",
-};
-```
 
 ### 🚧 What I'm building
 
@@ -43,14 +34,12 @@ const matteo = {
 ![CRM](https://img.shields.io/badge/Outbound_%26_CRM-003262?style=flat-square)
 
 **Build** &nbsp;
-![Replit](https://img.shields.io/badge/Replit_Agent-003262?style=flat-square&logo=replit&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-003262?style=flat-square&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-003262?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-003262?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub_Pages-003262?style=flat-square&logo=github&logoColor=white)
 
 **Analyze** &nbsp;
-![Python](https://img.shields.io/badge/Python-003262?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-003262?style=flat-square&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003262?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_·_Financial_Modeling-003262?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-003262?style=flat-square)
@@ -68,6 +57,11 @@ const matteo = {
     <td width="48" align="center"><img src="https://www.google.com/s2/favicons?domain=berkeley.edu&sz=128" width="32"/></td>
     <td><b>UC Berkeley</b><br/><sub>MSc Entrepreneurship, Technology & Startup Management</sub></td>
     <td align="right"><sub>2026 – 2027</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=skema.edu&sz=128" width="32"/></td>
+    <td><b>SKEMA Business School</b><br/><sub>Master in Management · Lille → Belo Horizonte</sub></td>
+    <td align="right"><sub>2024 – 2027</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/skareers.png" width="32"/></td>
@@ -88,11 +82,6 @@ const matteo = {
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=inthememory.com&sz=128" width="32"/></td>
     <td><b>In The Memory</b> · Strategy Consulting<br/><sub>Retail strategy & data on 25k+ SKUs (SQL, Excel)</sub></td>
     <td align="right"><sub>2025</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.google.com/s2/favicons?domain=skema.edu&sz=128" width="32"/></td>
-    <td><b>SKEMA Business School</b><br/><sub>Master in Management · Lille → Belo Horizonte</sub></td>
-    <td align="right"><sub>2024 – 2027</sub></td>
   </tr>
 </table>
 
