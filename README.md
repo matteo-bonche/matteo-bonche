@@ -10,12 +10,12 @@
 
 ### 👋 Hey, I'm Mattéo
 
-> 💬 *Business student who got tired of pitching ideas in slides, so I started building them.*
+> *Business student who got tired of pitching ideas in slides, so I started building them.*
 > *Turns out the part I love most is selling them.*
 
 I co-founded a dinner club and cold-pitched my way to alumni from **Goldman Sachs, Lazard and Microsoft**, filling the table with **200+ students**. At **50 Partners**, I helped **300+ founders** tackle their operational challenges. Now at **UC Berkeley**, I vibe-code products with AI, then go find the people who'll pay for them. At **SkillCase**, I run sales and signed our first **3 pilots**.
 
-🎯 **Looking for my next role as an SDR, BDR or junior AE.**
+**Looking for my next role as an SDR, BDR or junior AE.**
 I prospect like a founder, understand the product like a builder, and don't mind hearing "no" on the way to "yes". → **[Let's talk](https://www.linkedin.com/in/matteobonche/)**
 
 ### 🚧 What I'm building
@@ -24,7 +24,7 @@ I prospect like a founder, understand the product like a builder, and don't mind
 |:-:|---|---|:-:|
 | 🎯 | **[SkillCase](https://skillcase.fr)** | Hire interns & juniors based on what they *do*, not their CV. A 20-min mission built from the real job, scored with evidence, shortlist in 72h. | [Live ↗](https://skillcase.fr) |
 | 🍓 | **[Globuddy](https://szulun.github.io/Strawberry/intro_c.html)** | *One activity. Then you meet again.* Helps international students go beyond the first friendly hangout and turn it into real friendships, one shared activity at a time. Built with a team at Berkeley. | [Live ↗](https://szulun.github.io/Strawberry/intro_c.html) |
-| 📈 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Connects today's news to the stocks & ETFs you own and explains what it means for your money, in plain English. ETF look-through, stress tests, exposure map. | [Live ↗](https://riskpulse-app.vercel.app/) |
+| 💰 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Connects today's news to the stocks & ETFs you own and explains what it means for your money, in plain English. ETF look-through, stress tests, exposure map. | [Live ↗](https://riskpulse-app.vercel.app/) |
 | 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Small-group dinners where students meet alumni from finance, luxury, defense and tech. 20+ dinners, 200+ students. | [LinkedIn ↗](https://www.linkedin.com/company/skareers/) |
 
 ### 🧰 Toolbox
@@ -105,6 +105,8 @@ I prospect like a founder, understand the product like a builder, and don't mind
 
 <div align="center">
 
-**Hiring an SDR, BDR or junior AE?** I'll book the first meeting myself → [LinkedIn](https://www.linkedin.com/in/matteobonche/)
+Looking for your next Sales, building something cool in tech, or need a tennis partner? 🎾
+
+Let’s connect on LinkedIn → [LinkedIn](https://www.linkedin.com/in/matteobonche/)
 
 </div>
