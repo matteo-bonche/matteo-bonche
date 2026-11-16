@@ -25,8 +25,7 @@ I'm currently at **UC Berkeley**, studying how startups work. The side projects 
 | 📈 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Explains what today's news means for the stocks you own, in words your non-finance friends would understand. I run product, which mostly means saying *"not now"* to good ideas. | [Live&nbsp;↗](https://riskpulse-app.vercel.app/) |
 | 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Career advice, served between the main course and dessert. 20+ dinners, 200+ students, alumni from Goldman Sachs, Lazard and Microsoft, and a very solid list of Paris restaurants. | [LinkedIn&nbsp;↗](https://www.linkedin.com/company/skareers/) |
 
-### Toolbox
-<sub><i>Roughly in the order I use them.</i></sub>
+### 🧰 My toolbox (in the order I use it)
 
 **Finding the right people**<br/>
 ![Sales Navigator](https://img.shields.io/badge/LinkedIn_Sales_Navigator-Certification-FDB515?style=flat-square&labelColor=003262&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAxMmMyLjIxIDAgNC0xLjc5IDQtNHMtMS43OS00LTQtNC00IDEuNzktNCA0IDEuNzkgNCA0IDR6bS4zNSAyLjAxQzcuNjIgMTMuOTEgMiAxNS4yNyAyIDE4djJoOS41NGMtMi40Ny0yLjc2LTEuMjMtNS44OS0xLjE5LTUuOTl6bTkuMDggNC4wMWMuMzYtLjU5LjU3LTEuMjguNTctMi4wMiAwLTIuMjEtMS43OS00LTQtNHMtNCAxLjc5LTQgNCAxLjc5IDQgNCA0Yy43NCAwIDEuNDMtLjIyIDIuMDItLjU3TDIwLjU5IDIyIDIyIDIwLjU5bC0yLjU3LTIuNTd6TTE2IDE4Yy0xLjEgMC0yLS45LTItMnMuOS0yIDItMiAyIC45IDIgMi0uOSAyLTIgMnoiLz48L3N2Zz4%3D)
