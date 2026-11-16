@@ -25,7 +25,7 @@ I'm currently at **UC Berkeley**, studying how startups work. The side projects 
 | 📈 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Explains what today's news means for the stocks you own, in words your non-finance friends would understand. I run product, which mostly means saying *"not now"* to good ideas. | [Live&nbsp;↗](https://riskpulse-app.vercel.app/) |
 | 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Career advice, served between the main course and dessert. 20+ dinners, 200+ students, alumni from Goldman Sachs, Lazard and Microsoft, and a very solid list of Paris restaurants. | [LinkedIn&nbsp;↗](https://www.linkedin.com/company/skareers/) |
 
-### 🧰 Toolbox
+### Toolbox <sub>(roughly in the order I use them)</sub>
 <sub>Roughly in the order I use them.</sub>
 
 **Finding the right people**<br/>
