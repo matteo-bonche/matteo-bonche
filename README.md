@@ -10,12 +10,13 @@
 
 ### 👋 Hey, I'm Mattéo
 
-> 💬 *Business student who got tired of pitching ideas in slides, so I started shipping them.*
-> *Turns out I like selling them even more.*
+> 💬 *Business student who got tired of pitching ideas in slides, so I started building them.*
+> *Turns out the part I love most is selling them.*
 
-I co-founded a dinner club that sat **200+ students** across the table from alumni at **Goldman Sachs, Lazard and Microsoft**. I helped **300+ founders** get unstuck at **50 Partners**. Now I'm at **UC Berkeley**, shipping products with AI and talking to way too many users.
+I co-founded a dinner club and cold-pitched my way to alumni from **Goldman Sachs, Lazard and Microsoft**, filling the table with **200+ students**. At **50 Partners**, I helped **300+ founders** tackle their operational challenges. Now at **UC Berkeley**, I vibe-code products with AI, then go find the people who'll pay for them. At **SkillCase**, I run sales and signed our first **3 pilots**.
 
-If you need someone who can build the thing *and* bring in the customers, we should talk.
+🎯 **Looking for my next role as an SDR, BDR or junior AE.**
+I prospect like a founder, understand the product like a builder, and don't mind hearing "no" on the way to "yes". → **[Let's talk](https://www.linkedin.com/in/matteobonche/)**
 
 ### 🚧 What I'm building
 
@@ -27,28 +28,40 @@ If you need someone who can build the thing *and* bring in the customers, we sho
 | 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Small-group dinners where students meet alumni from finance, luxury, defense and tech. 20+ dinners, 200+ students. | [LinkedIn ↗](https://www.linkedin.com/company/skareers/) |
 
 ### 🧰 Toolbox
+<sub>My sales stack, in the order I use it: from the first lead to the product I sell.</sub>
 
-**Sell** &nbsp;
-![HubSpot](https://img.shields.io/badge/HubSpot_Inbound_Sales-003262?style=flat-square&logo=hubspot&logoColor=white)
-![Sales Navigator](https://img.shields.io/badge/LinkedIn_Sales_Navigator-003262?style=flat-square)
-![CRM](https://img.shields.io/badge/Outbound_%26_CRM-003262?style=flat-square)
+**🔎 Find the leads**<br/>
+![Sales Navigator](https://img.shields.io/badge/LinkedIn_Sales_Navigator-Certified-FDB515?style=flat-square&labelColor=003262)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-003262?style=flat-square)
+![FullEnrich](https://img.shields.io/badge/FullEnrich-003262?style=flat-square)
 
-**Build** &nbsp;
+**✉️ Start the conversation**<br/>
+![Cold email](https://img.shields.io/badge/Cold_email-003262?style=flat-square)
+![Cold calls](https://img.shields.io/badge/Cold_calls-003262?style=flat-square)
+![Claude](https://img.shields.io/badge/AI--assisted_prospecting_·_Claude-003262?style=flat-square&logo=claude&logoColor=white)
+<br/><sub>↳ Got 20+ senior alumni from Goldman Sachs, Lazard & Microsoft to host Skareers dinners</sub>
+
+**🤝 Close & track**<br/>
+![HubSpot Sales Hub](https://img.shields.io/badge/HubSpot_Sales_Hub-Certified-FDB515?style=flat-square&labelColor=003262&logo=hubspot&logoColor=white)
+![HubSpot Inbound Sales](https://img.shields.io/badge/HubSpot_Inbound_Sales-Certified-FDB515?style=flat-square&labelColor=003262&logo=hubspot&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-003262?style=flat-square&logo=notion&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-003262?style=flat-square&logo=googlesheets&logoColor=white)
+![Discovery calls](https://img.shields.io/badge/Discovery_calls-003262?style=flat-square)
+<br/><sub>↳ Signed SkillCase's first 3 pilot clients</sub>
+
+**🛠️ Build what I sell**<br/>
 ![Claude Code](https://img.shields.io/badge/Claude_Code-003262?style=flat-square&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-003262?style=flat-square&logo=githubcopilot&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-003262?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-003262?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Pages-003262?style=flat-square&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-003262?style=flat-square&logo=github&logoColor=white)
+<br/><sub>↳ Took RiskPulse from idea to live product</sub>
 
-**Analyze** &nbsp;
-![SQL](https://img.shields.io/badge/SQL-003262?style=flat-square&logo=postgresql&logoColor=white)
+**📊 Measure & automate**<br/>
 ![Excel](https://img.shields.io/badge/Excel_·_Financial_Modeling-003262?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-003262?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-003262?style=flat-square)
-
-**Automate & Pitch** &nbsp;
 ![Airtable](https://img.shields.io/badge/Airtable-003262?style=flat-square&logo=airtable&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-003262?style=flat-square&logo=zapier&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-003262?style=flat-square)
-![Adobe Express](https://img.shields.io/badge/Adobe_Express-003262?style=flat-square)
 
 ### 🛤️ Where I've been
 
@@ -64,6 +77,11 @@ If you need someone who can build the thing *and* bring in the customers, we sho
     <td align="right"><sub>2024 – 2027</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=skillcase.fr&sz=128" width="32"/></td>
+    <td><b>SkillCase</b> · Sales Lead<br/><sub>Own the full sales cycle, from prospecting to closing · signed our first 3 pilot clients</sub></td>
+    <td align="right"><sub>2026 – now</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="assets/skareers.png" width="32"/></td>
     <td><b>Skareers</b> · Co-founder<br/><sub>20+ alumni dinners, 200+ students, 6-person team</sub></td>
     <td align="right"><sub>2025 – now</sub></td>
@@ -74,12 +92,12 @@ If you need someone who can build the thing *and* bring in the customers, we sho
     <td align="right"><sub>2025</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.google.com/s2/favicons?domain=50partners.fr&sz=128" width="32"/></td>
+    <td align="center"><img src="assets/50partners.png" width="32"/></td>
     <td><b>50 Partners</b> · Startup Program<br/><sub>Matched 300+ founders with the right experts · 90% satisfaction</sub></td>
     <td align="right"><sub>2025</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.google.com/s2/favicons?domain=inthememory.com&sz=128" width="32"/></td>
+    <td align="center"><img src="assets/inthememory.png" width="32"/></td>
     <td><b>In The Memory</b> · Strategy Consulting<br/><sub>Retail strategy & data on 25k+ SKUs (SQL, Excel)</sub></td>
     <td align="right"><sub>2025</sub></td>
   </tr>
@@ -87,6 +105,6 @@ If you need someone who can build the thing *and* bring in the customers, we sho
 
 <div align="center">
 
-**Building a startup and need someone who sells?** → [Let's talk on LinkedIn](https://www.linkedin.com/in/matteobonche/)
+**Hiring an SDR, BDR or junior AE?** I'll book the first meeting myself → [LinkedIn](https://www.linkedin.com/in/matteobonche/)
 
 </div>
