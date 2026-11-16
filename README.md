@@ -63,10 +63,10 @@ I'm currently at **UC Berkeley**, studying how startups work. The side projects 
 
 <table> <tr> <td width="48" align="center"><img src="https://www.google.com/s2/favicons?domain=berkeley.edu&sz=128" width="32"/></td> <td><b>UC Berkeley</b><br/><sub>MSc Entrepreneurship, Technology & Startup Management</sub></td> <td align="right"><sub>2026 – 2027</sub></td> </tr> <tr> <td align="center"><img src="https://www.google.com/s2/favicons?domain=skema.edu&sz=128" width="32"/></td> <td><b>SKEMA Business School</b><br/><sub>Master in Management · Lille → Belo Horizonte</sub></td> <td align="right"><sub>2024 – 2027</sub></td> </tr> <tr> <td align="center"><img src="https://www.google.com/s2/favicons?domain=skillcase.fr&sz=128" width="32"/></td> <td><b>SkillCase</b> · Co-founder (Sales)<br/><sub>Prospecting to closing · first 3 pilot clients</sub></td> <td align="right"><sub>2026 – now</sub></td> </tr> <tr> <td align="center"><img src="assets/skareers.png" width="32"/></td> <td><b>Skareers</b> · Co-founder<br/><sub>20+ alumni dinners, 200+ students, 6-person team</sub></td> <td align="right"><sub>2025 – now</sub></td> </tr> <tr> <td align="center"><img src="https://www.google.com/s2/favicons?domain=babyvc.co&sz=128" width="32"/></td> <td><b>baby vc</b> · VC Fellow, Batch 12<br/><sub>Learned how investors decide. Useful when you're the one asking.</sub></td> <td align="right"><sub>2025</sub></td> </tr> <tr> <td align="center"><img src="https://www.google.com/s2/favicons?domain=50partners.fr&sz=128" width="32"/></td> <td><b>50 Partners</b> · Startup Program<br/><sub>Matched 300+ founders with the right experts · 90% satisfaction</sub></td> <td align="right"><sub>2025</sub></td> </tr> <tr> <td align="center"><img src="https://www.google.com/s2/favicons?domain=inthememory.com&sz=128" width="32"/></td> <td><b>In The Memory</b> · Strategy Consulting<br/><sub>Retail strategy & data on 25k+ SKUs. I have opinions about yogurt shelving now.</sub></td> <td align="right"><sub>2025</sub></td> </tr> </table>
 
-### 🔎 Currently interested in
+### Currently interested in
 
 - a first role as an **SDR or BDR**, in a team that sells something worth selling
-- peoples building interesting things in tech
-- a tennis partner who doesn’t only serve aces.
+- people building interesting things in tech
+- a tennis partner who doesn’t only serve aces
 
-If you tick one of these boxes, **[say hi on LinkedIn →](https://www.linkedin.com/in/matteobonche/)**
+If any of these sound like you, **[say hi on LinkedIn →](https://www.linkedin.com/in/matteobonche/)**
