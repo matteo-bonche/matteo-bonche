@@ -1,8 +1,4 @@
-<img src="assets/banner.svg?v=2" width="100%" alt="Mattéo Bonche · UC Berkeley"/>
-
-<a href="https://www.linkedin.com/in/matteobonche/"><img src="https://img.shields.io/badge/LinkedIn-matteobonche-FDB515?style=flat-square&labelColor=003262"/></a> <img src="https://img.shields.io/static/v1?label=Studying%20at&message=SKEMA%20%2F%20UC%20Berkeley&color=FDB515&labelColor=003262&style=flat-square"/> <img src="https://img.shields.io/badge/Obsessed_with-Sales,_Tech_%26_Startups-FDB515?style=flat-square&labelColor=003262"/>
-
-</div>
+<img src="assets/banner.svg?v=2" width="100%" alt="Mattéo Bonche · UC Berkeley"/> <p align="center"> <a href="https://www.linkedin.com/in/matteobonche/"><img src="https://img.shields.io/badge/LinkedIn-matteobonche-FDB515?style=flat-square&labelColor=003262"/></a> <img src="https://img.shields.io/static/v1?label=Studying%20at&message=SKEMA%20%2F%20UC%20Berkeley&color=FDB515&labelColor=003262&style=flat-square"/> <img src="https://img.shields.io/badge/Obsessed_with-Sales,_Tech_%26_Startups-FDB515?style=flat-square&labelColor=003262"/> </p>
 
 ### Hi, I'm Mattéo
 
