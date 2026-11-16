@@ -20,7 +20,7 @@ I'm currently at **UC Berkeley**, studying how startups work. The side projects 
 
 | | Project | In one honest sentence | |
 |:-:|---|---|:-:|
-| 🎯 | **[SkillCase](https://skillcase.fr)** | Helps companies hire juniors based on what they can actually do, rather than how well they formatted their CV. I co-founded it and I'm the one selling it: 3 pilots signed, which is 3 more than zero. | [Live&nbsp;↗](https://skillcase.fr) |
+| 🎯 | **[SkillCase](https://skillcase.fr)** | Helps companies hire juniors based on what they can actually do, rather than how well they formatted their CV. Co-founded it, now selling it: 3 pilots signed, which is 3 more than zero. | [Live&nbsp;↗](https://skillcase.fr) |
 | 🍓 | **[Globuddy](https://szulun.github.io/Strawberry/intro_c.html)** | For international students who've had the *"we should hang out again!"* conversation forty times. One shared activity, then you actually meet again. Built with a team at Berkeley. | [Live&nbsp;↗](https://szulun.github.io/Strawberry/intro_c.html) |
 | 📈 | **[RiskPulse](https://riskpulse-app.vercel.app/)** | Explains what today's news means for the stocks you own, in words your non-finance friends would understand. I run product, which mostly means saying *"not now"* to good ideas. | [Live&nbsp;↗](https://riskpulse-app.vercel.app/) |
 | 🍽️ | **[Skareers](https://www.linkedin.com/company/skareers/)** | Career advice, served between the main course and dessert. 20+ dinners, 200+ students, alumni from Goldman Sachs, Lazard and Microsoft, and a very solid list of Paris restaurants. | [LinkedIn&nbsp;↗](https://www.linkedin.com/company/skareers/) |
@@ -100,10 +100,10 @@ I'm currently at **UC Berkeley**, studying how startups work. The side projects 
   </tr>
 </table>
 
-### 🔎 Currently looking for
+### 🔎 Currently interested in
 
-- 💼 a first role as an **SDR or BDR**, in a team that sells something worth selling
-- 🛠️ people building interesting things in tech
-- 🎾 a tennis partner at roughly my level (10+ years of play, generous self-assessment included)
+- a first role as an **SDR or BDR**, in a team that sells something worth selling
+- peoples building interesting things in tech
+- a tennis partner who doesn’t only serve aces.
 
 If you tick one of these boxes, **[say hi on LinkedIn →](https://www.linkedin.com/in/matteobonche/)**
