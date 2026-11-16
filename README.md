@@ -8,7 +8,7 @@
 
 </div>
 
-### 👋 Hi, I'm Mattéo
+### Hi, I'm Mattéo
 
 I'm a business student who spent a while pitching ideas in slides, until I noticed that slides never buy anything. People do. So now I build things and go find those people.
 
@@ -16,7 +16,7 @@ So far this has involved a dinner club, a recruiting startup, a finance app, and
 
 I'm currently at **UC Berkeley**, studying how startups work. The side projects are where I check whether any of it is true.
 
-### 🚧 What I'm working on
+### What I'm working on
 
 | | Project | In one honest sentence | |
 |:-:|---|---|:-:|
@@ -60,7 +60,7 @@ I'm currently at **UC Berkeley**, studying how startups work. The side projects 
 ![Airtable](https://img.shields.io/badge/Airtable-003262?style=flat-square&logo=airtable&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-003262?style=flat-square&logo=zapier&logoColor=white)
 
-### 🛤️ Previously
+### Previously
 
 <table>
   <tr>
