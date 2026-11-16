@@ -14,7 +14,7 @@ I'm a business student who spent a while pitching ideas in slides, until I notic
 
 So far this has involved a dinner club, a recruiting startup, a finance app, and a lot of messages that start with *"Hi, quick question"*.
 
-I'm currently at **UC Berkeley**, studying entrepreneurship, which is a bit like studying swimming from the side of the pool. Hence the side projects.
+I'm currently at **UC Berkeley**, studying how startups work. The side projects are where I check whether any of it is true.
 
 ### What I'm working on
 
